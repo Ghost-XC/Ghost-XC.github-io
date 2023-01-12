@@ -1,2 +1,2 @@
 # Ghost-XC.github-io
-第一网站
+第一个网站
